@@ -1,3 +1,4 @@
-public class SomethingFatihWorkin
+public class SomethingFatihWorkin{
 
+//more work
 }
